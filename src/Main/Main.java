@@ -2,6 +2,7 @@
 * Main.java
 * 18 september 2018
 * Maurice (MGC) van Haperen
+* v0.1
 */
 
 package Main;

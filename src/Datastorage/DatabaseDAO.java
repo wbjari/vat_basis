@@ -23,6 +23,7 @@ public class DatabaseDAO implements ShapeDAO {
     public Connection openConnection() {
         try {
             //Try to create a connection with the library database
+            // localhost, root, empty password
             Connection connection = DriverManager.getConnection("jdbc:mysql://localhost/vat", "root", "");
 
 
